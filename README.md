@@ -1,4 +1,6 @@
 ## PHP Rule Engine for PHP 7
+Fork of ![nicoSWD PHP Rule Engine](https://github.com/nicoSWD/php-rule-parser)
+
 
 |  | Build Status | Code Quality | Coverage | Style CI |
 |:----------------:|:----------------:|:----------:|:----------:|:----------:|
